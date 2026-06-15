@@ -33,8 +33,10 @@ A simple iOS app built with **SwiftUI** that allows users to modify an image usi
 
 ## 📸 Preview
 
-![Main screen](images/screenshot1.png)
-![Filters example](images/screenshot2.png)
+<p align="center">
+  <img src="images/screenshot1.png" width="250"/>
+  <img src="images/screenshot2.png" width="250"/>
+</p>
 
 Example:
 
