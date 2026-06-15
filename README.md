@@ -62,7 +62,7 @@ Example:
 
 ## 👨‍💻 Author
 
-Created by [Your Name]
+Created by Giuseppe Cardinale
 
 ---
 
